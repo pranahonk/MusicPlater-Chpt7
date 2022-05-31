@@ -35,7 +35,7 @@ extension UIImageView {
 class PlayerViewController: UIViewController, UITableViewDelegate,UITableViewDataSource,AVAudioPlayerDelegate {
     
     //Choose background here. Between 1 - 7
-    let selectedBackground = 2
+    let selectedBackground = 3
     
     
     var audioPlayer:AVAudioPlayer! = nil
